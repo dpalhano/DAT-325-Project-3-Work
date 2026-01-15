@@ -1,2 +1,1 @@
-# DAT-325-Project-2-Work
-Worked with an excel sheet for two supermarkets that needed data merged relating their purchases after their merger.
+Worked with two supermarket's invoice and sales records of their sales within the supermarkets. The 'Bruce' and 'Wayne' supermarkets both were merged and thus their purchase records needed to be cleaned and merged as well. The cleaning and merging of these excel sheets were performed through various formulas and documented over project 2 and 3 within the class. 
